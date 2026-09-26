@@ -1,0 +1,6 @@
+{
+  "name": "AGRI LINK CAM",
+  "description": "Plateforme agricole camerounaise reliant agriculteurs, grossistes et acheteurs avec messagerie, gestion de stocks, paiements mobiles MTN MoMo / Orange Money, cours du marché en temps réel et accès hors-ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
